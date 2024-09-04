@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "learing udemy",
+  "main": "index.js",
+  "author": "adat",
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
 }
